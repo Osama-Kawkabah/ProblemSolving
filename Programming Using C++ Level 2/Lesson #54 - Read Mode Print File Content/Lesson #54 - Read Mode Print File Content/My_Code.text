@@ -1,0 +1,54 @@
+#include<iostream>
+#include<fstream>
+#include<string>
+using namespace std; 
+void PrintFileContenet(stringFileName) { fstream MyFile;   
+  MyFile.open( FileName, ios::in );
+//read Modeif (MyFile.is_open())   
+  { string Line;
+ while (getline(MyFile, Line)) 
+   
+     {         
+    cout << Line << endl;  
+       }   
+      MyFile.close();     }
+ } int main() {   
+  PrintFileContenet(MyFile);
+ return 0; 
+}
+#include<iostream>#include<fstream>#incl
+ude<string>usingnamespace std; void PrintFileContenet(stringF
+ileName) { fst
+ream MyFile;     MyFile.open( FileName, ios::in 
+Modeif (MyFile.is_open())     { string Line; while (getl
+ine(MyFile, Line))         {             cout << Line << endl;         } 
+        MyFile.close();
+     } } int main
+() {     Pri
+ntFileContenet(
+MyFile); return 0; }
+#include<iostream>#include<fstream>#include<string>us
+ingnamespace std; void PrintFil
+eContenet(stringFileName) { fstre
+am MyFile;     MyFile.open( FileName, ios::in );//read Modeif (M
+yFile.is_open())     { stri
+ng Line; while (getline(MyFile, Lin
+e))         {             cout << Line << endl;      
+   }         MyFile.close();
+     } } int main() {     Prin
+tFi
+leContenet(MyF
+il
+e); return ; 
+
+ing>usingname
+space stdvoid PrintFileontenet
+{ fstrea
+m MyFile;     MyFile.open( F
+ileName, ios::in );//read Modeif (MyFile.is_op
+en())     { string Line; while (getline(MyFile
+, Line))         {             cout << Line <<
+ endl;         }         MyFi
+le.close();     } } int main() {     Print
+Fil
+eContenet(MyFile); return 0; }

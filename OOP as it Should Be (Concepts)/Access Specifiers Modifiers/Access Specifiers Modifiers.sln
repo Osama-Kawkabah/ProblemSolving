@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Access Specifiers Modifiers", "Access Specifiers Modifiers\Access Specifiers Modifiers.vcxproj", "{F8B11259-DF08-484D-A453-3ABCBDB18093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Debug|x64.ActiveCfg = Debug|x64
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Debug|x64.Build.0 = Debug|x64
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Debug|x86.Build.0 = Debug|Win32
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Release|x64.ActiveCfg = Release|x64
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Release|x64.Build.0 = Release|x64
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Release|x86.ActiveCfg = Release|Win32
+		{F8B11259-DF08-484D-A453-3ABCBDB18093}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FEDB284-EE2F-4633-9C00-5C878ABAA731}
+	EndGlobalSection
+EndGlobal

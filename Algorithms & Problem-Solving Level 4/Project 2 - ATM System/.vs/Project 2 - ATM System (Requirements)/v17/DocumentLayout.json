@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OsamaAli\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 GitHub\\Programming Advices\\Algorithms \u0026 Problem-Solving Level 4\\Project 2 - ATM System (Requirements)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80BC18F6-C945-4E41-BE89-F06739B4D0CB}|Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).vcxproj|C:\\Users\\OsamaAli\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 GitHub\\Programming Advices\\Algorithms \u0026 Problem-Solving Level 4\\Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80BC18F6-C945-4E41-BE89-F06739B4D0CB}|Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).vcxproj|solutionrelative:Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 2 - ATM System (Requirements).cpp",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 GitHub\\Programming Advices\\Algorithms \u0026 Problem-Solving Level 4\\Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).cpp",
+              "RelativeDocumentMoniker": "Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).cpp",
+              "ToolTip": "C:\\Users\\OsamaAli\\Desktop\\\u0645\u0634\u0627\u0631\u064A\u0639 GitHub\\Programming Advices\\Algorithms \u0026 Problem-Solving Level 4\\Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).cpp*",
+              "RelativeToolTip": "Project 2 - ATM System (Requirements)\\Project 2 - ATM System (Requirements).cpp*",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAiwL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T15:52:55.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

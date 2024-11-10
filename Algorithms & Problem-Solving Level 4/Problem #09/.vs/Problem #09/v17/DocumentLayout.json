@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 4\\Problem #09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7975C38E-CC49-498D-B20C-3BB3EBC2F20A}|Problem #09\\Problem #09.vcxproj|D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 4\\Problem #09\\Problem #09\\Problem #09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7975C38E-CC49-498D-B20C-3BB3EBC2F20A}|Problem #09\\Problem #09.vcxproj|solutionrelative:Problem #09\\Problem #09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #09.cpp",
+              "DocumentMoniker": "D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 4\\Problem #09\\Problem #09\\Problem #09.cpp",
+              "RelativeDocumentMoniker": "Problem #09\\Problem #09.cpp",
+              "ToolTip": "D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 4\\Problem #09\\Problem #09\\Problem #09.cpp",
+              "RelativeToolTip": "Problem #09\\Problem #09.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T15:58:36.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

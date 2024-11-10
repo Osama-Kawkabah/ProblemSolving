@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80153A7B-1701-4968-A7BE-00C833F134D8}|Lesson #01 - Find Clien\\Lesson #01 - Find Clien.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80153A7B-1701-4968-A7BE-00C833F134D8}|Lesson #01 - Find Clien\\Lesson #01 - Find Clien.vcxproj|solutionrelative:Lesson #01 - Find Clien\\Lesson #01 - Find Clien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80153A7B-1701-4968-A7BE-00C833F134D8}|Lesson #01 - Find Clien\\Lesson #01 - Find Clien.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80153A7B-1701-4968-A7BE-00C833F134D8}|Lesson #01 - Find Clien\\Lesson #01 - Find Clien.vcxproj|solutionrelative:Lesson #01 - Find Clien\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Lesson #01 - Find Clien\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien\\clsBankClient.h",
+              "RelativeToolTip": "Lesson #01 - Find Clien\\clsBankClient.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T08:36:31.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #01 - Find Clien.cpp",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien.cpp",
+              "RelativeDocumentMoniker": "Lesson #01 - Find Clien\\Lesson #01 - Find Clien.cpp",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien\\Lesson #01 - Find Clien.cpp",
+              "RelativeToolTip": "Lesson #01 - Find Clien\\Lesson #01 - Find Clien.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T07:34:55.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

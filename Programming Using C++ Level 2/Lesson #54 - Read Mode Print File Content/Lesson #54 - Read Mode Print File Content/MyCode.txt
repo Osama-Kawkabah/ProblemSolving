@@ -1,0 +1,17 @@
+void ReadModePrintFileContent(string Text){
+	fstream Myfile;
+
+	Myfile.open(Text, ios::in);
+	if (Myfile.is_open())
+	{
+		string Letter;
+		while(getline(Myfile, Letter))
+		{
+			cout << Letter << endl;;
+		}
+
+
+		Myfile.close();
+	}
+
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 3\\All Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B2DA4D-241B-4347-BD4E-1E9EADB6D222}|All Library\\All Library.vcxproj|D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 3\\All Library\\All Library\\All Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B2DA4D-241B-4347-BD4E-1E9EADB6D222}|All Library\\All Library.vcxproj|solutionrelative:All Library\\All Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All Library.cpp",
+              "DocumentMoniker": "D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 3\\All Library\\All Library\\All Library.cpp",
+              "RelativeDocumentMoniker": "All Library\\All Library.cpp",
+              "ToolTip": "D:\\\u0623\u0643\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0648\u0627\u062F \u0628\u0631\u0645\u062C\u0640\u0640\u0640\u0640\u0640\u0640\u064A\u0640\u0640\u0640\u0647\\Algorithms \u0026 Problem Solving Level 3\\All Library\\All Library\\All Library.cpp",
+              "RelativeToolTip": "All Library\\All Library.cpp",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAEUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T08:16:20.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson #24 - Float Format (printf)", "Lesson #24 - Float Format (printf)\Lesson #24 - Float Format (printf).vcxproj", "{3249E5CB-CD9D-4273-A30C-03F249F376FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Debug|x64.ActiveCfg = Debug|x64
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Debug|x64.Build.0 = Debug|x64
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Debug|x86.Build.0 = Debug|Win32
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Release|x64.ActiveCfg = Release|x64
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Release|x64.Build.0 = Release|x64
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Release|x86.ActiveCfg = Release|Win32
+		{3249E5CB-CD9D-4273-A30C-03F249F376FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB42CA78-6070-40A9-8CD4-73FC482AD35D}
+	EndGlobalSection
+EndGlobal

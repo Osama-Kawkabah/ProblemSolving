@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|solutionrelative:Lesson #3 - Add New Client\\Lesson #3 - Add New Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|solutionrelative:Lesson #3 - Add New Client\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|solutionrelative:Lesson #3 - Add New Client\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|solutionrelative:Lesson #3 - Add New Client\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|solutionrelative:Lesson #3 - Add New Client\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A3C3E30-049C-403D-BF28-176EAFC3BA62}|Lesson #3 - Add New Client\\Lesson #3 - Add New Client.vcxproj|solutionrelative:Lesson #3 - Add New Client\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsDate.h",
+              "RelativeDocumentMoniker": "Lesson #3 - Add New Client\\clsDate.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsDate.h",
+              "RelativeToolTip": "Lesson #3 - Add New Client\\clsDate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T19:13:43.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsString.h",
+              "RelativeDocumentMoniker": "Lesson #3 - Add New Client\\clsString.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsString.h",
+              "RelativeToolTip": "Lesson #3 - Add New Client\\clsString.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T19:12:54.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Lesson #3 - Add New Client\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsInputValidate.h",
+              "RelativeToolTip": "Lesson #3 - Add New Client\\clsInputValidate.h",
+              "ViewState": "AQIAAEoAAAAAAAAAAAASwFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T19:12:16.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Lesson #3 - Add New Client\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsBankClient.h",
+              "RelativeToolTip": "Lesson #3 - Add New Client\\clsBankClient.h",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T19:12:07.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsPerson.h",
+              "RelativeDocumentMoniker": "Lesson #3 - Add New Client\\clsPerson.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\clsPerson.h",
+              "RelativeToolTip": "Lesson #3 - Add New Client\\clsPerson.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T19:11:59.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #3 - Add New Client.cpp",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client.cpp",
+              "RelativeDocumentMoniker": "Lesson #3 - Add New Client\\Lesson #3 - Add New Client.cpp",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client\\Lesson #3 - Add New Client.cpp",
+              "RelativeToolTip": "Lesson #3 - Add New Client\\Lesson #3 - Add New Client.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T19:11:18.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

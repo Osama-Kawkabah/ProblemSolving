@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|solutionrelative:Input \u0026 Validation Library\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\Input \u0026 Validation Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|solutionrelative:Input \u0026 Validation Library\\Input \u0026 Validation Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|solutionrelative:Input \u0026 Validation Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36EA58F1-B7C4-4170-AE50-40D62CEEFB2C}|Input \u0026 Validation Library\\Input \u0026 Validation Library.vcxproj|solutionrelative:Input \u0026 Validation Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsString.h",
+              "RelativeDocumentMoniker": "Input \u0026 Validation Library\\clsString.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsString.h",
+              "RelativeToolTip": "Input \u0026 Validation Library\\clsString.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T16:33:14.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsDate.h",
+              "RelativeDocumentMoniker": "Input \u0026 Validation Library\\clsDate.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsDate.h",
+              "RelativeToolTip": "Input \u0026 Validation Library\\clsDate.h",
+              "ViewState": "AQIAAF4AAAAAAAAAAAASwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T16:32:48.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Input \u0026 Validation Library\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\clsInputValidate.h",
+              "RelativeToolTip": "Input \u0026 Validation Library\\clsInputValidate.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T16:01:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input \u0026 Validation Library.cpp",
+              "DocumentMoniker": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\Input \u0026 Validation Library.cpp",
+              "RelativeDocumentMoniker": "Input \u0026 Validation Library\\Input \u0026 Validation Library.cpp",
+              "ToolTip": "C:\\Users\\OsamaAli\\source\\repos\\Input \u0026 Validation Library\\Input \u0026 Validation Library\\Input \u0026 Validation Library.cpp",
+              "RelativeToolTip": "Input \u0026 Validation Library\\Input \u0026 Validation Library.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T15:59:38.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
