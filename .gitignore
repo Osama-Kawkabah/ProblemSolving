@@ -72,3 +72,86 @@ Makefile
 *.bak
 *.tmp
 *.old
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# مجلدات وأدوات البناء
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# ملفات النواتج المؤقتة والمجمّعة
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.nupkg
+*.snupkg
+*.log
+*.cache
+*.pdb
+*.mdb
+
+# ملفات وأدوات Visual Studio
+.vscode/
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache/
+.vscode/
+*.sln*
+*.csproj.user
+ipch/
+tlog/
+*.lastbuildstate
+
+# مجلدات إعادة البناء
+TestResults/
+ClientBin/
+Backup*/
+sql/
+Dump/
+
+# ملفات NuGet وPackage Management
+*.nuget/
+*.snupkg
+packages/
+# لجعل Visual Studio يحمل الحزم من جديد
+!packages/repositories.config
+
+# ملفات .NET وAzure
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.Azure.*
+*.AzureComputeEmulator/
+aspnet_client/
+ServiceFabricBackup/
+
+# ملفات الفحص وإعداد التكوينات
+*.Coverage
+*.codecoverage
+*.config
+*.dotCover
+*.swo
+*.swn
+
+# ملفات التخزين المؤقت والتحكم في الأداء
+[Content_Types].xml
+*.diff
+*.[Pp]ublish.xml
+backup/
+
+# ملفات أخرى غير مرغوب فيها
+*.tmp
+*.bak
+*.swp
+*.old
